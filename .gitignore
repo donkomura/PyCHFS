@@ -1,0 +1,11 @@
+.pytest_cache
+.tox
+chfsenv
+*.egg-info
+*.pyc
+*cython*
+*.so
+*.c
+build
+.env
+venv
